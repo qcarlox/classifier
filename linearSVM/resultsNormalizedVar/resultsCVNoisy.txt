@@ -1,0 +1,14 @@
+start
+400
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': array(20), 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.832 (+/-0.003) for {'pca__n_components': array(20), 'classifier__n_estimators': 500}
+573.776226997

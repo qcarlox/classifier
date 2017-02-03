@@ -1,0 +1,86 @@
+start
+100
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': 30, 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.783 (+/-0.004) for {'pca__n_components': 10, 'classifier__n_estimators': 500}
+0.816 (+/-0.004) for {'pca__n_components': 20, 'classifier__n_estimators': 500}
+0.822 (+/-0.004) for {'pca__n_components': 30, 'classifier__n_estimators': 500}
+0.820 (+/-0.004) for {'pca__n_components': 40, 'classifier__n_estimators': 500}
+0.820 (+/-0.004) for {'pca__n_components': 50, 'classifier__n_estimators': 500}
+2326.76948404
+200
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': 40, 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.807 (+/-0.003) for {'pca__n_components': 10, 'classifier__n_estimators': 500}
+0.836 (+/-0.004) for {'pca__n_components': 20, 'classifier__n_estimators': 500}
+0.842 (+/-0.005) for {'pca__n_components': 30, 'classifier__n_estimators': 500}
+0.843 (+/-0.005) for {'pca__n_components': 40, 'classifier__n_estimators': 500}
+0.842 (+/-0.005) for {'pca__n_components': 50, 'classifier__n_estimators': 500}
+2258.84717107
+400
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': 40, 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.806 (+/-0.005) for {'pca__n_components': 10, 'classifier__n_estimators': 500}
+0.837 (+/-0.005) for {'pca__n_components': 20, 'classifier__n_estimators': 500}
+0.846 (+/-0.005) for {'pca__n_components': 30, 'classifier__n_estimators': 500}
+0.849 (+/-0.005) for {'pca__n_components': 40, 'classifier__n_estimators': 500}
+0.848 (+/-0.005) for {'pca__n_components': 50, 'classifier__n_estimators': 500}
+2306.04088187
+800
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': 50, 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.793 (+/-0.004) for {'pca__n_components': 10, 'classifier__n_estimators': 500}
+0.830 (+/-0.004) for {'pca__n_components': 20, 'classifier__n_estimators': 500}
+0.840 (+/-0.004) for {'pca__n_components': 30, 'classifier__n_estimators': 500}
+0.844 (+/-0.003) for {'pca__n_components': 40, 'classifier__n_estimators': 500}
+0.844 (+/-0.004) for {'pca__n_components': 50, 'classifier__n_estimators': 500}
+2361.27773905
+1600
+
+(54540, 567)
+# Tuning hyper-parameters for accuracy
+()
+Best parameters set found on development set:
+()
+{'pca__n_components': 50, 'classifier__n_estimators': 500}
+()
+Grid scores on development set:
+()
+0.790 (+/-0.005) for {'pca__n_components': 10, 'classifier__n_estimators': 500}
+0.827 (+/-0.003) for {'pca__n_components': 20, 'classifier__n_estimators': 500}
+0.842 (+/-0.003) for {'pca__n_components': 30, 'classifier__n_estimators': 500}
+0.844 (+/-0.004) for {'pca__n_components': 40, 'classifier__n_estimators': 500}
+0.846 (+/-0.004) for {'pca__n_components': 50, 'classifier__n_estimators': 500}
+2316.48103404
